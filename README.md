@@ -1,2 +1,1 @@
-# My-First-project
-My first project
+This is a sorting algorithm visualization program
